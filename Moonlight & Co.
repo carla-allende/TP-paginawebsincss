@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Moonlight & Co.</title>
+    <link rel="icon" href="C:\Users\carli\Downloads\moon.png" />
+  </head>
+  <body>
+    <h1>Moonlight & Co.</h1>
+    <h2>Handmade clothes for everyone, many sizes.</h2>
+    <h3>OUR PRODUCTS</h3>
+    <section>
+      <h3>About us:</h3>
+      <p>
+        The company "Moonlight & Co." started basically with an idea of wanting
+        to change the environment from an ecological perspective. Adapting the
+        fashionable of the moment with real sizes. We offer you the widest range
+        of colors and sizes regardless of gender.
+      </p>
+    </section>
+
+    <main>
+      <form>
+        <div>
+          <p>Complete our survey for discounts!</p>
+        </div>
+        <input type="Email" placeholder="Email" />
+        <input type="submit" placeholder="submit"/>
+      </form>
+    </main>
+    <nav>
+        <a href="https://www.dollskill.com/" target="_BLANK">Go to our second store</a>
+        <li>Dresses</li>
+        <img src="C:\Users\carli\Downloads\H69d18ea84dd5412ba552b2d40595452co.jpg_Q55.jpg " alt="" />
+<li>Shoes</li>
+<img src=" C:\Users\carli\Downloads\17757371_37611249_1000.webp" alt="" />
+
+    </nav>
+<div>
+    <p>"subscribe our newsletter"</p>
+    <input type="text"emailhere="your email" ><br>your email here
+    <input type="button" value="submit">
+    <input type="email"placeholder=email>
+</div>
+<nav>
+    <nav></nav>
+
+    <ul>
+      <li><a href="Contact US:" inicio></a></li>
+      <li><a href="ABOUT US">OUR EMAIL</a></li>
+      <a href="OUR PHONE">OUR PHONE</a>
+    </ul>
+
+  <nav>
+    <footer>
+      <p>&copy; Moonlight & Co.</p>
+    </footer>
+  </body>
+</html>
