@@ -1,2 +1,2 @@
 # TP-paginawebsincss
-En mi curso usamos herramientas propias de HTML, pero nuestro primera actividad fue meramente introductoria donde es puro código html sin css (aun)
+In my course we use HTML tools, but our first activity was merely introductory where it is pure html code without css (yet).
